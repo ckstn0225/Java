@@ -8,8 +8,4 @@ public class SolutionsTest {
     void Sout() {
         Solutions.sout();
     }
-    @Test
-    void List() {
-        Solutions.sout();
-    }
 }
