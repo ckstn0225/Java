@@ -10,4 +10,8 @@ class ListSolutionsTest {
     void list1() {
         listSolutions.list1();
     }
+    @Test
+    void list2() {
+        listSolutions.list2();
+    }
 }
