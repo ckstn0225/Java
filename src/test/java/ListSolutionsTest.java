@@ -14,4 +14,8 @@ class ListSolutionsTest {
     void list2() {
         listSolutions.list2();
     }
+    @Test
+    void list3() {
+        listSolutions.list3();
+    }
 }

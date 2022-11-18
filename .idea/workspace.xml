@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da8750f9-02df-4258-bbfb-5f86ae653644" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArraySolutions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraySolutions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ListSolutions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ListSolutions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ListSolutionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ListSolutionsTest.java" afterDir="false" />
     </list>
@@ -58,6 +58,7 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/userpc/Desktop/Coding/Til&quot;,
     &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -72,16 +73,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ListSolutionsTest.list2">
-    <configuration name="ArraySolutionsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="onedayonecommit.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ArraySolutionsTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ListSolutionsTest.list3">
     <configuration name="ArraySolutionsTest.arr1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="onedayonecommit.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -121,13 +113,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ListSolutionsTest.list3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="onedayonecommit.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListSolutionsTest" />
+      <option name="METHOD_NAME" value="list3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ListSolutionsTest.list3" />
         <item itemvalue="JUnit.ListSolutionsTest.list2" />
         <item itemvalue="JUnit.ListSolutionsTest" />
         <item itemvalue="JUnit.ArraySolutionsTest.arr2" />
         <item itemvalue="JUnit.ArraySolutionsTest.arr1" />
-        <item itemvalue="JUnit.ArraySolutionsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +142,12 @@
       <option name="presentableId" value="Default" />
       <updated>1667553317220</updated>
       <workItem from="1667553319562" duration="6514000" />
-      <workItem from="1667712233717" duration="1200000" />
+      <workItem from="1667712233717" duration="3566000" />
+      <workItem from="1667828866720" duration="1956000" />
+      <workItem from="1667837827034" duration="3000" />
+      <workItem from="1668140997231" duration="447000" />
+      <workItem from="1668168324128" duration="2000" />
+      <workItem from="1668214986301" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="make Project">
       <created>1667554380178</created>
@@ -156,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667634517628</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add ArrayList.size() and ArrayList.get()">
+      <created>1667757148621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667757148621</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +202,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="make Project" />
     <MESSAGE value="add ArraySolutions.java &#10;array.clone() and Arrays.equals() and  ArrayList.add()" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ArraySolutions.java &#10;array.clone() and Arrays.equals() and  ArrayList.add()" />
+    <MESSAGE value="add ArrayList.size() and ArrayList.get()" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ArrayList.size() and ArrayList.get()" />
   </component>
 </project>

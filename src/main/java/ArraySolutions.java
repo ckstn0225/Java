@@ -20,4 +20,5 @@ public class ArraySolutions {
         System.out.println("Arrays.equals(arr, arr2)");
         System.out.println(Arrays.equals(arr, arr2));
     }
+
 }
